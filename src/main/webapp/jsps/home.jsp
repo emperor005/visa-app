@@ -9,10 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">  CLIENT IS HAPPY - ALL TESTS PASSED.</h1>
+<h1 align="center">visa-app has now been successfully deployed to Production. Good job team Champions.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
