@@ -11,7 +11,7 @@
 <body>
 <h1 align="center"> CHAMPIONS DEVELOPMENT TEAM AT WORK.</h1>
 <h1 align="center">The code for the visa-app has been developed and deployed to the Dev app-server.
-	            UAT can now commence testing with relative ease.</h1>
+	            UAT can now commence testing with relative ease...</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
